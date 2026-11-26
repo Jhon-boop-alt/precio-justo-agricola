@@ -1,0 +1,22 @@
+{
+  "categoricas": [
+    "Producto",
+    "Variedad",
+    "Región",
+    "Calidad",
+    "Tipo_mercado",
+    "Tipo_comprador"
+  ],
+  "numericas": [
+    "Mes",
+    "Oferta_disponible_ton",
+    "Demanda_estimada_ton",
+    "Temperatura_C",
+    "Precipitacion_mm",
+    "Distancia_transporte_km",
+    "Costo_transporte_S_",
+    "Precio_actual_S_kg",
+    "Oferta_comprador_S_kg"
+  ],
+  "objetivo": "Precio_estimado_7d_S_kg"
+}

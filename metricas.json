@@ -1,0 +1,24 @@
+{
+  "mape_pct": 5.083437172239267,
+  "mae_s_kg": 0.14839130434782624,
+  "r2": 0.9781531682737582,
+  "mape_base_pct": 6.358751685434178,
+  "n_train": 1486,
+  "n_test": 506,
+  "n_excluidos": 8,
+  "sklearn_version": "1.8.0",
+  "accuracy_pct": 67.78656126482213,
+  "precision_pct": 45.1219512195122,
+  "recall_pct": 23.870967741935484,
+  "matriz": {
+    "VN": 306,
+    "FP": 45,
+    "FN": 118,
+    "VP": 37
+  },
+  "senales": {
+    "Vender pronto": 27,
+    "Negociar ofertas": 132,
+    "Evaluar esperar": 347
+  }
+}

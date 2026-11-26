@@ -5,7 +5,7 @@ import streamlit as st
 import joblib, qrcode
 from logic import ANSWERS, GUIDE, normalize, fallback, intent_gemini, event, stats, pending
 
-ROOT=Path(file).resolve().parent
+ROOT=Path(__file__).resolve().parent
 DATA=ROOT
 DB=ROOT/'piloto.sqlite3'
 st.set_page_config(page_title='Precio Justo Agrícola',page_icon='🍇',layout='wide')
